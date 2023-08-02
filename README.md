@@ -1,4 +1,4 @@
-![Cover](https://user-images.githubusercontent.com/62587060/218331213-20652a77-5ed1-4f81-ad43-bf425bb092e0.gif)
+![Cover]https://discord.com/channels/990785267298361355/1011688165641289800/1136238760158314498)
 
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Singh</h1>
