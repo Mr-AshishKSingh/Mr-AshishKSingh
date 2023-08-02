@@ -1,4 +1,4 @@
-![Cover]https://discord.com/channels/990785267298361355/1011688165641289800/1136238760158314498)
+![Cover]https://ibb.co/KWHwbP7)
 
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Singh</h1>
