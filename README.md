@@ -1,3 +1,6 @@
+![Cover](https://user-images.githubusercontent.com/62587060/218331213-20652a77-5ed1-4f81-ad43-bf425bb092e0.gif)
+
+
 <h1 align="center">Hi 👋, I'm Ashish Kumar Singh</h1>
 <h3 align="center">Devops Enthusiast / Backend / Linux / OpenSourcerer</h3>
 
