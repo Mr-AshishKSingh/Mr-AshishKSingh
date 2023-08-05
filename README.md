@@ -1,4 +1,4 @@
-![ ](https://github.com/Mr-AshishKSingh/Mr-AshishKSingh/blob/main/ezgif.com-video-to-gif%20(1).gif)
+<center> ![ ](https://github.com/Mr-AshishKSingh/Mr-AshishKSingh/blob/main/ezgif.com-video-to-gif%20(1).gif) </center>
 
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Singh</h1>
