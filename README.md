@@ -1,3 +1,6 @@
+![alt text](https://github.com/Mr-AshishKSingh/Mr-AshishKSingh/blob/main/fff.png)
+
+
 <h1 align="center">Hi 👋, I'm Ashish Kumar Singh</h1>
 <h3 align="center">Techie who knows about Application Development ,</h3>
 
